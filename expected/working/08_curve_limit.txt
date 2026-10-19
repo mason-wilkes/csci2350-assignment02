@@ -1,0 +1,4 @@
+correction applied: true
+working scores: 94 95 100
+working max: 100
+owner cleared: true

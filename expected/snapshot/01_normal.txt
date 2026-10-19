@@ -1,0 +1,8 @@
+correction applied: true
+working scores: 72 95 88 80
+working max: 95
+curved scores: 77 100 93 85
+curved max: 100
+snapshot after working release: 72 95 55 80
+snapshot max: 95
+owners cleared: true

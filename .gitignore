@@ -1,0 +1,10 @@
+score_functions_check
+score_functions_check.exe
+score_working
+score_working.exe
+score_snapshot
+score_snapshot.exe
+*.o
+*.obj
+*.pdb
+*.ilk
